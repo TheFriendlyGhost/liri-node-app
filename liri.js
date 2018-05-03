@@ -108,7 +108,6 @@ function myTweets(){
 	   		writeToFile(toWrite)
 
 		})
-
 		writeToFile('------------------------------------------------')
 	})
 }
